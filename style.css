@@ -1,0 +1,24 @@
+#home_img{
+	min-width: 100px;
+    min-height: 650px; 
+    background-image: url("image/background1.jpg");
+    background-position: center;
+    /*background-repeat: no-repeat;*/
+    background-size: cover;
+    background-attachment: fixed;
+    left: 0;
+  	right: 0;
+  	z-index: 1;
+}
+#home_img2{
+    min-width: 100px;
+    min-height: 650px; 
+    background-image: url("image/whitebg.png");
+    background-position: center;
+    /*background-repeat: no-repeat;*/
+    background-size: cover;
+    background-attachment: fixed;
+    left: 0;
+    right: 0;
+    z-index: 1;
+}
